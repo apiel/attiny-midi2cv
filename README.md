@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/apiel/attiny-midi2cv/main/usbmidi2cv.jpg)
 
 Install:
 
